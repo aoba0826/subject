@@ -12,7 +12,7 @@ main{
   margin: 50px auto;
   width: 960px;
   display: flex;
-  justify-content: center;
+  justify-content: center ;
 }
 @media screen and (max-width:768px) {
   main{
@@ -55,7 +55,7 @@ size: 20px;
 background-color: #ff9a4b;
 }
 .img
-{background-image: url(img/img1-9/flow01.png);
+{background-image: url(img/flow01.png);
 margin-bottom: 15px;
 height: 150px;
 background-size: cover;
@@ -70,14 +70,14 @@ footer{
   background-color: #aaa;
 }
 .img2
-{background-image: url(img/img1-9/flow02.png);
+{background-image: url(img/flow02.png);
 margin-bottom: 15px;
 height: 150px;
 background-size: cover;
 background-position:bottom}
 
 .img3
-{background-image: url(img/img1-9/flow03.png);
+{background-image: url(img/flow03.png);
 margin-bottom: 15px;
 height: 150px;
 background-size: cover;
